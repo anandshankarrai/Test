@@ -1,2 +1,3 @@
-thi is newly added file
+this is newly added file
 API_URL=https://api.dev.example.com
+
